@@ -41,6 +41,10 @@ h2 {
     color: white;
 }
 
+h2:hover {
+    color: #19b9c3;
+}
+
 #nft-card p {
     color: #596b83;
 }
